@@ -1,3 +1,8 @@
+# LIVE DEMO :-  <a href="https://nxtcookies.ccbp.tech">Authentication & Authorization</a>
+### Login Details
+Username: rahul </br>
+Password: rahul@2021
+
 In this project, let's build **Nxt Trendz** app with authentication by applying the concepts we have learned till now.
 
 ### Refer to the image below:
